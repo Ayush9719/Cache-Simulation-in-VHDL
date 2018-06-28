@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/VIT/#3 Fall Sem 2016/Projects/Cache
+Eregister32
+Z1 w1476885775
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8G:/VIT/#3 Fall Sem 2016/Projects/Cache/Register.vhd
+Z5 FG:/VIT/#3 Fall Sem 2016/Projects/Cache/Register.vhd
+l0
+L4
+V5cmPQL`;a`kMjBVK[WgQG0
+!s100 hRb<dR[0zl_;ggmAoOeCX1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1476885779
+!i10b 1
+Z8 !s108 1476885779.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|G:/VIT/#3 Fall Sem 2016/Projects/Cache/Register.vhd|
+Z10 !s107 G:/VIT/#3 Fall Sem 2016/Projects/Cache/Register.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Adescription
+R2
+R3
+DEx4 work 10 register32 0 22 5cmPQL`;a`kMjBVK[WgQG0
+l16
+L14
+VN39NBKz[750l79PK[i?`X2
+!s100 5Vf]N9OETgHBYKnJ9>B7^3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etest
+w1476887038
+R3
+R2
+R0
+8G:/VIT/#3 Fall Sem 2016/Projects/Cache/test.vhd
+FG:/VIT/#3 Fall Sem 2016/Projects/Cache/test.vhd
+l0
+L6
+VHBQmJZ4CC=IZ7FLYST8DP2
+!s100 V[W<[f7BMmT]j3oW5SO2j2
+R6
+32
+!s110 1476887039
+!i10b 1
+!s108 1476887039.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|G:/VIT/#3 Fall Sem 2016/Projects/Cache/test.vhd|
+!s107 G:/VIT/#3 Fall Sem 2016/Projects/Cache/test.vhd|
+!i113 1
+R11
+R12

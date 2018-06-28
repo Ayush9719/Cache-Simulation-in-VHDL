@@ -1,0 +1,23 @@
+{G:/VIT/#3 Fall Sem 2016/Projects/Cache/test.vhd} {0 {vcom -work work -2002 -explicit -stats=none {G:/VIT/#3 Fall Sem 2016/Projects/Cache/test.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test
+-- Compiling architecture behavior of test
+** Error: G:/VIT/#3 Fall Sem 2016/Projects/Cache/test.vhd(22): Subprogram "WRITE" is ambiguous.
+   Feasible subprograms are:
+      (explicit) TEXTIO.WRITE[std.TEXTIO.LINE, std.STANDARD.STRING, std.TEXTIO.SIDE, NATURAL] at vhdl_src/std/textio.vhd(145)
+      (explicit) TEXTIO.WRITE[std.TEXTIO.LINE, BIT_VECTOR, std.TEXTIO.SIDE, NATURAL] at vhdl_src/std/textio.vhd(126)
+** Error: G:/VIT/#3 Fall Sem 2016/Projects/Cache/test.vhd(22): No feasible entries for subprogram "write".
+** Error: G:/VIT/#3 Fall Sem 2016/Projects/Cache/test.vhd(28): VHDL Compiler exiting
+
+} {8.0 9.0 12.0 14.0} {}} {G:/VIT/#3 Fall Sem 2016/Projects/Cache/Register.vhd} {1 {vcom -work work -2002 -explicit -stats=none {G:/VIT/#3 Fall Sem 2016/Projects/Cache/Register.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity register32
+-- Compiling architecture description of register32
+
+} {} {}}
